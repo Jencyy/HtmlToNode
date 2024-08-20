@@ -1,0 +1,23 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.hero-section {
+    background: url('/images/hero.jpeg') no-repeat;
+    background-size: cover;
+  
+    padding: 100px 0;
+}
+
+.footer {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.footer a {
+    color: #ffffff;
+}
+
+.footer a:hover {
+    color: #e9ecef;
+}
